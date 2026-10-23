@@ -1,0 +1,7 @@
+__pycache__/
+config.ini
+certs/*
+!certs/.gitkeep
+*.p12
+*.pem
+*.key
